@@ -10,6 +10,12 @@ Project was developed in the MS Visual Studio environment.
 
 
 ## *** Project structure
+There are 3 classes implemented wihtin the project.
+ConverterJSON involves methods responsible *config.json* and *request.json* files reading  
+and for writing processing results to *answres.json*.  
+
+  
+
 <p><p>
 <img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
 </p>
