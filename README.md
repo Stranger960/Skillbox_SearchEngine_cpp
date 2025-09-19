@@ -11,7 +11,7 @@ Project was developed in the MS Visual Studio environment.
 
 ## *** Project structure
 There are 3 classes implemented within the project.  
-ConverterJSON involves methods responsible *config.json* and *requests.json* files reading  
+ConverterJSON involves methods responsible for *config.json* and *requests.json* files reading  
 and for writing processing results to *answres.json*.  
 
   
