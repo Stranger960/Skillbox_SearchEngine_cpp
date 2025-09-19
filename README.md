@@ -14,22 +14,34 @@ Project was developed in the MS Visual Studio environment.
 <img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
 </p>
 
-###  описание стека используемых технологий
+##  *** Stack of technologies used
+<p>
+</p>
 
 ## *** Features
-- Key benefits
+Key benefits:
+<p>
+</p>
 
 ## *** Installation
 ...
+<p>
+</p>
 
 ## *** Usage / краткая инструкцию, как запустить проект локально: 
 ...
+<p>
+</p>
 
 ## *** Configuration / команды, действия, переменные среды, которые обязательно требуется задать
 ...
+<p>
+</p>
 
 ## *** Contributing
 ...
+<p>
+</p>
 
 ### *** License
 MIT © 2025 Grach Muradyan
