@@ -1,4 +1,4 @@
-# Skillbox_SearchEngine_cpp diploma project
+# Skillbox_ diploma project: SearchEngine_cpp
 
 ## Short description (what/why).
 
