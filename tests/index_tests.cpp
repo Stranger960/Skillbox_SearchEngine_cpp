@@ -63,7 +63,7 @@ TEST(TestCaseInvertedIndex, TestBasic2)
 		{0, 3}, {1, 2}, {2, 5}		// water
 		},
 		{
-		{3, 1}						// cappuchino, not  cappuccino  !!!!
+		{3, 1}						// cappuchino, not  cappuccino  !
 		}
 	};
 	TestInvertedIndexFunctionality(docs, requests, expected);
