@@ -1,7 +1,7 @@
 # Skillbox diploma project: SearchEngine     <img width="60" height="82" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />
 
 ## *** Short description
-This project is the final part of the C++ training course provided by Skillbox ( www.skillbox.ru )
+This project is the final part of the *C++ training course* provided by **Skillbox** ( www.skillbox.ru )
 
 Project structure
 <p><p>
