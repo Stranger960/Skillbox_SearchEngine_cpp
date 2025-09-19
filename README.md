@@ -1,7 +1,12 @@
 # Skillbox diploma project: SearchEngine     <img width="60" height="82" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />
 
 ## *** Short description
-This project is the final part of the *C++ training course* provided by **Skillbox** ( www.skillbox.ru )
+This project is the final part of the *C++ training course* provided by **Skillbox** ( www.skillbox.ru ).
+It is implementing a search engine *console* program for a company corporate portal, like Google search - 
+based on the *data relevance* evaluation. 
+It builds *search indexes*, works with configuration files and invokes a set of tests to validate the solution. 
+A *relevance formula* for generating search results is used as the project basis.
+
 
 Project structure
 <p><p>
