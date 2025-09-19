@@ -17,22 +17,12 @@ and for writing processing results to *answres.json*.
 *InvertedIndex*  
 *SearchServer*  
 
-Input file *config.json* describes the configuration, including source data files for search:  
-{
-"config": {
-	"name": "ITC_box_Engine",
-	"version": "0.1",
-	"max_responses": 5
-},
-	"files": [
-		".\\resources\\file001.txt",
-		".\\resources\\file002.txt",
-		".\\resources\\file003.txt",
-		".\\resources\\file004.txt"
-	]
-}
+Input file *config.json* describes the configuration, including source data files used for search:  
+<img width="324" height="323" alt="image" src="https://github.com/user-attachments/assets/db358f19-3914-406b-bfc3-b68086a92a0b" />  
+  
+Input file *config.json* describes  
+<img width="383" height="222" alt="image" src="https://github.com/user-attachments/assets/77f561af-a964-4d93-b8f9-8330cd59022b" />
 
-Input file *config.json*
 
   
 Project construction in MS VS is as follows:
