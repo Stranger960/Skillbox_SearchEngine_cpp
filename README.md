@@ -64,5 +64,7 @@ Key benefits:
 <p>
 </p>
 
-### *** License
-MIT © 2025 Grach Muradyan
+### *** Licenses
+nlohmann/json: MIT  
+GoogleTest: BSD-3-Clause  
+Project code: MIT © 2025 Grach Muradyan
