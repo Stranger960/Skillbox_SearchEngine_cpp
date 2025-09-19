@@ -1,4 +1,5 @@
-# Skillbox diploma project: SearchEngine
+# Skillbox diploma project: SearchEngine  <img width="864" height="1222" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />
+
 ### / описание проекта
 ### / описание стека используемых технологий
 ### / краткая инструкцию, как запустить проект локально: 
