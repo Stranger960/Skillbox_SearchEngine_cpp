@@ -6,6 +6,7 @@ It is implementing a search engine *console* program for a company corporate por
 based on the *data relevance* evaluation. 
 It builds *search indexes*, works with configuration files and invokes a set of tests to validate the solution.  
 A *relevance formula* for generating search results is used as the project basis.  
+Project was developed in the MS Visual Studio environment. 
 
 
 
