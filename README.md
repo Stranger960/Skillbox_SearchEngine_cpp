@@ -2,9 +2,9 @@
 
 ## Short description
 
-Structure
-<p>
-  <img width="330" height="629" alt="image" src="https://github.com/user-attachments/assets/486749a6-020a-4f75-8f55-9f59773b7a1b" />
+Project structure
+<p><p>
+<img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
 </p>
 
 ### / описание стека используемых технологий
