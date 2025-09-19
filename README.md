@@ -1,28 +1,28 @@
 # Skillbox diploma project: SearchEngine     <img width="60" height="82" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />
 
-## Short description
+## *** Short description
 
 Project structure
 <p><p>
 <img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
 </p>
 
-### / описание стека используемых технологий
+###  описание стека используемых технологий
 
-## Features
+## *** Features
 - Key benefits
 
-## Installation
+## *** Installation
 ...
 
-## Usage / краткая инструкцию, как запустить проект локально: 
+## *** Usage / краткая инструкцию, как запустить проект локально: 
 ...
 
-## Configuration / команды, действия, переменные среды, которые обязательно требуется задать
+## *** Configuration / команды, действия, переменные среды, которые обязательно требуется задать
 ...
 
-## Contributing
+## *** Contributing
 ...
 
-### License
+### *** License
 MIT © 2025 Grach Muradyan
