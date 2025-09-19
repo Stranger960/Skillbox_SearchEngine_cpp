@@ -10,11 +10,29 @@ Project was developed in the MS Visual Studio environment.
 
 
 ## *** Project structure
+*searchEngine* is the main module.  
 There are 3 classes implemented within the project.  
 *ConverterJSON* involves methods responsible for *config.json* and *requests.json* files reading  
 and for writing processing results to *answres.json*.  
-*InvertedIndex*
+*InvertedIndex*  
+*SearchServer*  
 
+Input file *config.json* describes the configuration, including source data files for search:  
+{
+"config": {
+	"name": "ITC_box_Engine",
+	"version": "0.1",
+	"max_responses": 5
+},
+	"files": [
+		".\\resources\\file001.txt",
+		".\\resources\\file002.txt",
+		".\\resources\\file003.txt",
+		".\\resources\\file004.txt"
+	]
+}
+
+Input file *config.json*
 
   
 Project construction in MS VS is as follows:
