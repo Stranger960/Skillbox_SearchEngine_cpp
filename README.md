@@ -4,10 +4,10 @@
 This project is the final part of the *C++ training course* provided by **Skillbox** ( www.skillbox.ru ).
 It is implementing a search engine *console* program for a company corporate portal, like Google search - 
 based on the *data relevance* evaluation. 
-It builds *search indexes*, works with configuration files and invokes a set of tests to validate the solution. 
-<p>
-A *relevance formula* for generating search results is used as the project basis.
-</p>
+It builds *search indexes*, works with configuration files and invokes a set of tests to validate the solution.  
+A *relevance formula* for generating search results is used as the project basis.  
+
+
 
 Project structure
 <p><p>
