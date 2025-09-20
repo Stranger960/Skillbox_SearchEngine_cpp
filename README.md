@@ -9,8 +9,8 @@ Project was developed in the MS Visual Studio environment.
 
 
 
-## *** Project structure
-- *SearchEngine* is the main module.  
+## *** Project structure  
+*SearchEngine* is the main module.  
 There are 3 classes implemented within the project.
 
 - *ConverterJSON* involves methods responsible for *config.json* and *requests.json* files reading  
