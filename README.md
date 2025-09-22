@@ -15,7 +15,11 @@ Project was developed in the MS Visual Studio environment.
 - *ConverterJSON* involves methods responsible for *config.json* and *requests.json* files reading  
 and for writing processing results to *answres.json*.
 
-- *InvertedIndex*  ...  
+- *InvertedIndex* class uses data from text blocks (originally located in resources folder)
+and builds an inverted index from them. An inverted index is a data structure in which,
+for each word in a collection of documents, the corresponding list contains all documents
+in the collection where that word occurs.
+The inverted index is then used for text quick search. 
 
 - *SearchServer*  ...  
 
@@ -59,6 +63,14 @@ Result interpretation
 ...
 <p>
 </p>
+
+
+## *** Errata
+...
+<p>
+</p>
+
+
 
 ## *** Contributing
 ...
