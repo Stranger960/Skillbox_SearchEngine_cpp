@@ -47,9 +47,9 @@ Key benefits:
 ## *** Running program / краткая инструкцию, как запустить проект локально: 
 
 <p>
-### *** Result interpretation
+### *** Result interpretation  
   <p>
-  <img width="429" height="602" alt="image" src="https://github.com/user-attachments/assets/5f25d20d-ca93-4773-8e05-b6dfb0b4d17a" />
+    <img width="426" height="602" alt="image" src="https://github.com/user-attachments/assets/5170f77b-3be9-4ba0-bc6b-21862cedc6ec" />
   </p>
 
 ## *** Replacing project
