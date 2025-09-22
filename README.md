@@ -20,7 +20,9 @@ and builds an inverted index from them. An inverted index is a data structure in
 for each word in a collection of documents, the corresponding list contains all documents
 in the collection where that word occurs.
 Data are stored in *map<string, vector<Entry>> freqDictionary*, where *Entry* is constructed as follows:
+<p>
 *struct Entry { size_t docId, count; }*
+</p>
 The inverted index data are then used for text quick search. 
 
 - *SearchServer*  ...  
@@ -37,7 +39,7 @@ one single search request:
 
   
 Project structure in MS VS is as follows:
-<p><p>
+<p>
 <img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
 </p>
 
