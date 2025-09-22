@@ -44,12 +44,15 @@ Key benefits:
 <p>
 </p>
 
-## *** Installation
-...
+## *** Running program / краткая инструкцию, как запустить проект локально: 
+
 <p>
+### *** Result interpretation
+  <img width="414" height="507" alt="image" src="https://github.com/user-attachments/assets/3e3ecbd8-385d-4926-be62-1aab884b8e79" />
+
 </p>
 
-## *** Usage / краткая инструкцию, как запустить проект локально: 
+## *** Replacing project
 ...
 <p>
 </p>
