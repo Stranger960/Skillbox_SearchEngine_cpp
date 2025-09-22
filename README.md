@@ -21,7 +21,8 @@ for each word in a collection of documents, the corresponding list contains all 
 in the collection where that word occurs.
 After processing data are then stored in a map *freqDictionary* and are used later for text quick searches.  
 
-- *SearchServer*  ...  
+- *SearchServer* class includes methods, which allow to determine the most relevant documents
+matching given search query based on the list of search queries from the *requests.json* file. 
 
 
 Input file *config.json* describes the configuration, including source data files used for search:  
