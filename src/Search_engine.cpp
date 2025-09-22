@@ -1,4 +1,4 @@
-﻿#include "searchEngine.h"
+#include "searchEngine.h"
 #include "converterJSON.h"
 #include "invertedIndex.h"
 #include "searchServer.h"
@@ -65,7 +65,8 @@ int main()
 	}
 
 	converterJSON.PutAnswers(_resultConverted);
-	cout << "\n*** Search completed OK\n\n";
+	cout << "\n*** Search completed OK, window will be closed in " << WAIT_SECONDS << " seconds\n\n";
+	PAUSE
 
 	return 0;
 }
