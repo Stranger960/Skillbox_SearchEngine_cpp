@@ -49,7 +49,7 @@ Key benefits:
 <p>
 ### *** Result interpretation  
   <p>
-    <img width="426" height="602" alt="image" src="https://github.com/user-attachments/assets/5170f77b-3be9-4ba0-bc6b-21862cedc6ec" />
+    <img width="213" height="301" alt="image" src="https://github.com/user-attachments/assets/1ac0e25b-cfe2-44ec-a90f-e652eec9bacb" />
   </p>
 
 ## *** Replacing project
