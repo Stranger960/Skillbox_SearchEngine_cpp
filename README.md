@@ -13,7 +13,7 @@ Project was developed in the MS Visual Studio environment.
 *SearchEngine* is the main project module.  
 3 classes are implemented:
 - *ConverterJSON* involves methods responsible for *config.json* and *requests.json* files reading  
-and for writing processing results to *answres.json*.
+and for writing processing results to *answres.json*.  
 
 - *InvertedIndex* class uses data from text blocks (originally located in resources folder)
 and builds an inverted index from them. An inverted index is a data structure in which,
@@ -23,7 +23,7 @@ Data are stored in *map<string, vector<Entry>> freqDictionary*, where *Entry* is
 <p>
 *struct Entry { size_t docId, count; }*
 </p>
-The inverted index data are then used for text quick search. 
+The inverted index data are then used for text quick search.  
 
 - *SearchServer*  ...  
 
