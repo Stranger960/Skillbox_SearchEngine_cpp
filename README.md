@@ -12,7 +12,7 @@ Project was developed in the MS Visual Studio environment.
 ## *** Project structure  
 *SearchEngine* is the main project module.  
 3 classes are implemented:
-- *ConverterJSON* involves methods responsible for *config.json* and *requests.json* files reading  
+- *ConverterJSON* class involves methods responsible for *config.json* and *requests.json* files reading  
 and for writing processing results to *answres.json*.  
 
 - *InvertedIndex* class methods use data from text blocks (originally located in resources folder)
