@@ -20,10 +20,8 @@ and builds an inverted index from them. An inverted index is a data structure in
 for each word in a collection of documents, the corresponding list contains all documents
 in the collection where that word occurs.
 Data are stored in *map<string, vector<Entry>> freqDictionary*, where *Entry* is constructed as follows:
-<p>
-*struct Entry { size_t docId, count; }*
-</p>
-The inverted index data are then used for text quick search.  
+*struct Entry { size_t docId, count; }*  
+*InvertedIndex* data are then used for text quick search.  
 
 - *SearchServer*  ...  
 
