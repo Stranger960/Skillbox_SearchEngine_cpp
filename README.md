@@ -34,12 +34,6 @@ one single search request:
 <img width="383" height="222" alt="image" src="https://github.com/user-attachments/assets/77f561af-a964-4d93-b8f9-8330cd59022b" />  
 
 
-  
-Project structure in MS VS is as follows:
-<p>
-<img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
-</p>
-
 ##  *** Stack of technologies used
 <p>
 </p>
@@ -55,8 +49,12 @@ Result interpretation
     <img width="213" height="301" alt="image" src="https://github.com/user-attachments/assets/1ac0e25b-cfe2-44ec-a90f-e652eec9bacb" />
   </p>
 
-## *** Replacing project
-...
+## *** Replicating the project
+
+Project structure in MS VS is as follows:
+<p>
+<img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
+</p>
 <p>
 </p>
 
