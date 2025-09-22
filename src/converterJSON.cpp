@@ -22,12 +22,14 @@ vector<string> ConverterJSON::GetTextDocuments() {
 	}
 	else {
 		cerr << "*** ConverterJSON: file is missing -> " << configPath << "\n\n";
+		PAUSE
 		exit(70);
 	}
 
 	auto it = confData.begin();
 	if (it.key() != "config") {
 		cerr << "*** ConverterJSON: file is empty -> " << configPath << "\n\n";
+		PAUSE
 		exit(71);
 	}
 
@@ -48,6 +50,7 @@ vector<string> ConverterJSON::GetTextDocuments() {
 
 	if (filesNumber <= 0 || filesNumber > 1000) {
 		cerr << "\n\n*** ConverterJSON: incorrect files number -> " << filesNumber << "\n\n";
+		PAUSE
 		exit(72);
 	}
 	return _fileList;
@@ -60,7 +63,11 @@ vector <string> ConverterJSON::GetRequests() {
 		requestsFile >> reqData;
 		requestsFile.close();
 	}
-	else { cerr << "\n\n*** ConverterJSON: file is missing -> " << requestsPath << "\n\n";	exit(73); }
+	else { 
+		cerr << "\n\n*** ConverterJSON: file is missing -> " << requestsPath << "\n\n";	
+		PAUSE
+		exit(73); 
+	}
 
 	auto it = reqData.begin();
 	nlohmann::json requests = it.value();
@@ -133,9 +140,10 @@ void ConverterJSON::PutAnswers(const vector<vector<pair<int, float>>>& _searchRe
 	ofstream file(outputFile);
 	if (file) {
 		file << finalFile.dump(4);
-		cout << "\n\n*** PutAnswers: \"finalFile\" data sent to file " << outputFile << std::endl;
+		cout << "\n\n*** PutAnswers: \"finalFile\" data sent to file " << outputFile << endl;
 	}
 	else {
-		cerr << "\n\n*** PutAnswers: file is missing ->  " << outputFile << std::endl;
+		PAUSE
+		cerr << "\n\n*** PutAnswers: failed sending data to file" << outputFile << endl;
 	}
 }
