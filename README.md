@@ -30,7 +30,7 @@ one single search request:
 
 
   
-Project construction in MS VS is as follows:
+Project structure in MS VS is as follows:
 <p><p>
 <img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
 </p>
@@ -48,9 +48,9 @@ Key benefits:
 
 <p>
 ### *** Result interpretation
-  <img width="414" height="507" alt="image" src="https://github.com/user-attachments/assets/3e3ecbd8-385d-4926-be62-1aab884b8e79" />
-
-</p>
+  <p>
+  <img width="429" height="602" alt="image" src="https://github.com/user-attachments/assets/5f25d20d-ca93-4773-8e05-b6dfb0b4d17a" />
+  </p>
 
 ## *** Replacing project
 ...
