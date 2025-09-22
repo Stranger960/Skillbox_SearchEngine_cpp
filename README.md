@@ -44,10 +44,8 @@ Key benefits:
 <p>
 </p>
 
-## *** Running program / краткая инструкцию, как запустить проект локально: 
-
-<p>
-## *** Result interpretation  
+## *** Running program locally  
+Result interpretation  
   <p>
     <img width="213" height="301" alt="image" src="https://github.com/user-attachments/assets/1ac0e25b-cfe2-44ec-a90f-e652eec9bacb" />
   </p>
