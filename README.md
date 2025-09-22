@@ -19,7 +19,7 @@ and for writing processing results to *answres.json*.
 and builds an inverted index from them. An inverted index is a data structure where,
 for each word in a collection of documents, the corresponding list contains all documents
 in the collection where that word occurs.
-After processing data are then stored in a map *freqDictionary* and used later text quick searches.  
+After processing data are then stored in a map *freqDictionary* and are used later for text quick searches.  
 
 - *SearchServer*  ...  
 
