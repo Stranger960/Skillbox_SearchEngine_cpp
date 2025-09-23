@@ -66,9 +66,9 @@ Result interpretation
 ## *** Project configuration and replication
 Project was developed using Microsoft *Visual Studio* Community 2022.  
 Following requirements should be mentioned:  
-•	Compiler C++17  
-•	CMake 3.20 (and higher versions)  
-•	Internet access could be needed (for loading in advance or at the time of linking) for loading the remote entities,
+•	Compiler C++17 and higher versions  
+•	CMake 3.20 and higher versions  
+•	Internet access could be needed (for loading in advance or at the time of linking) for the remote entities used,
 including *GoogleTest* and *nlohmann/jsonn* library.
 
 
