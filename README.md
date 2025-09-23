@@ -42,6 +42,8 @@ one single search request:
 
 ##  *** Stack of technologies used
 <p>
+This is a local, pure backend solution, developed on C++.  
+Unit tests, based on GoogleTest, are included for control.
 </p>
 
 ## *** Features
