@@ -15,7 +15,7 @@ Project structure in MS VS is as follows:
 <img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
 </p>
 
-*SearchEngine* is the main project module.  
+*Search_engine* is the main project module.  
 3 classes are implemented:
 - *ConverterJSON* class involves methods responsible for *config.json* and *requests.json* files reading  
 and for writing processing results to *answres.json*.  
