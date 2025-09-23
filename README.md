@@ -36,7 +36,7 @@ Input file *config.json* describes the configuration, including source data file
 
 
 Input file *requests.json* includes the list of keywords used for search, where each line represents  
-one single search request:  
+one single search request (words separated by one or more spaces, of lowercase Latin letters):  
 <img width="383" height="222" alt="image" src="https://github.com/user-attachments/assets/77f561af-a964-4d93-b8f9-8330cd59022b" />  
 
 
