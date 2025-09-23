@@ -44,7 +44,7 @@ Up to 1K request lines where each line is 1 to 10 words:
 
 ##  *** Stack of technologies used  
 This is a local and pure backend solution, developed on C++.  
-Unit tests, based on GoogleTest, are included for control.
+Unit tests, based on GoogleTest, are included for code control.
 
 
 ## *** Features
@@ -81,7 +81,7 @@ Also couple of corrections / comments were added to unit test (TestCaseInvertedI
 
 
 ## *** Contributing  
-**Special thanks** *to Michael and the whole hard-working Skillbox team for the permanent support during the course and the final project development.*  
+**Special thanks** to *Michael Verbkin* and the whole hard-working Skillbox team for the permanent support during the training course and at the final project development time.*  
 
 ### *** Licenses
 nlohmann/json: MIT  
