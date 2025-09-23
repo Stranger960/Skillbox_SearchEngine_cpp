@@ -49,9 +49,10 @@ This is a local, pure backend solution, developed on C++.
 Unit tests, based on GoogleTest, are included for control.
 
 ## *** Features
-Key benefits:
-<p>
-</p>
+Key benefits: project design is targeted to provide maximum flexibility,  
+where user can easily work with own datasets:  
+- add or modify the documents to be analyzed (within *config.json* file)  
+- adapt the keywords used for search (inside *requests.json* file).
 
 ## *** Running program locally  
 Result interpretation  
