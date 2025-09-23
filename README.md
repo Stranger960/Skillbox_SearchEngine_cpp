@@ -1,4 +1,4 @@
-# <span style="color:green">Skillbox diploma project: SearchEngine</span>  <img width="60" height="82" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />
+# Skillbox diploma project: SearchEngine  <img width="60" height="82" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />
 
 This project is the final part of the *C++ training course* provided by **Skillbox** ( www.skillbox.ru ).
 It is implementing a search engine *console* program for a company corporate portal, like Google search - 
