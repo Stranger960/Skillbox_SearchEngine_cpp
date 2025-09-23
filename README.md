@@ -83,10 +83,8 @@ Also couple of corrections / comments were added to unit test (TestCaseInvertedI
 <img width="500" height="305" alt="image" src="https://github.com/user-attachments/assets/2be20973-8228-40b1-af9b-8d716a46a3c7" />  
 
 
-## *** Contributing
-...
-<p>
-</p>
+## *** Contributing  
+**Special thanks** *to Michael and the whole hard-working Skillbox team for the permanent support during the course and the final project development.*  
 
 ### *** Licenses
 nlohmann/json: MIT  
