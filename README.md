@@ -70,7 +70,7 @@ Following requirements should be mentioned:
 •	CMake 3.20 and higher versions  
 •	Internet access could be needed (for loading in advance or at the time of linking) for the remote entities used,
 including *GoogleTest* and *nlohmann/jsonn* library.
-
+Project could be easily replicated / cloned either using GitHub Fork option or by creating a corresponding structure and code copy / past in any available IDE.
 
 ## *** Errata  
 Following item from the Task file was noted during the development  
