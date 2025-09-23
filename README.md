@@ -57,22 +57,17 @@ where user can easily work with own datasets:
 
 
 ## *** Running program locally  
+
+
 Result interpretation  
   <p>
     <img width="213" height="301" alt="image" src="https://github.com/user-attachments/assets/1ac0e25b-cfe2-44ec-a90f-e652eec9bacb" />
   </p>
 
 
-## *** Replicating the project
-
-
-<p>
-</p>
-
-## *** Configuration / команды, действия, переменные среды, которые обязательно требуется задать
+## *** Project configuration and replication
+ команды, действия, переменные среды, которые обязательно требуется задать
 ...
-<p>
-</p>
 
 
 ## *** Errata  
