@@ -33,7 +33,8 @@ matching given search query based on the list of search queries from the *reques
 
 Input file *config.json* describes the configuration, including source data files used for search.  
 Each data file ("document") contains no more than 1000 words, with a maximum length of 100 characters per word...
-The words consist of lowercase Latin letters and are separated by one or more spaces:  
+The words consist of lowercase Latin letters and are separated by one or more spaces.  
+max-responses field limits max number of responses per one singe request:  
 <img width="324" height="323" alt="image" src="https://github.com/user-attachments/assets/db358f19-3914-406b-bfc3-b68086a92a0b" />  
 
 
