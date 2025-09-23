@@ -83,7 +83,7 @@ Also couple of corrections / comments were added to unit test (TestCaseInvertedI
 ## *** Contributing  
 **Special thanks** to *Michael Verbkin* and the whole hard-working Skillbox team for the permanent support during the training course and at the final project development time.  
 
-### *** Licenses
+## *** Licenses
 nlohmann/json: MIT  
 GoogleTest: BSD-3-Clause  
 Project code: MIT © 2025 Grach Muradyan
