@@ -48,17 +48,20 @@ Up to 1K request lines where each line is 1 to 10 words:
 This is a local, pure backend solution, developed on C++.  
 Unit tests, based on GoogleTest, are included for control.
 
+
 ## *** Features
 Key benefits: project design is targeted to provide maximum flexibility,  
 where user can easily work with own datasets:  
 - add or modify the documents to be analyzed (within *config.json* file)  
 - adapt the keywords used for search (inside *requests.json* file).
 
+
 ## *** Running program locally  
 Result interpretation  
   <p>
     <img width="213" height="301" alt="image" src="https://github.com/user-attachments/assets/1ac0e25b-cfe2-44ec-a90f-e652eec9bacb" />
   </p>
+
 
 ## *** Replicating the project
 
@@ -76,7 +79,6 @@ Result interpretation
 ...
 <p>
 </p>
-
 
 
 ## *** Contributing
