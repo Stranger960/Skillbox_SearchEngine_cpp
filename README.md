@@ -73,7 +73,7 @@ including *GoogleTest* and *nlohmann/jsonn* library.
 
 
 ## *** Errata  
-Following item from the Task file was adapted during development  
+Following item from the Task file was noted during the development  
 (https://github.com/Stranger960/Skillbox_SearchEngine_cpp/blob/master/Final%20project%20task%20for%20C%2B%2B%20Skillbox%20training%20course.pdf):
 the output *answers.json* file must have a unique key ( "docid" ) per each record.  
 Also couple of corrections / comments were added to unit test (TestCaseInvertedIndex, TestBasic2):  
@@ -81,7 +81,7 @@ Also couple of corrections / comments were added to unit test (TestCaseInvertedI
 
 
 ## *** Contributing  
-**Special thanks** to *Michael Verbkin* and the whole hard-working Skillbox team for the permanent support during the training course and at the final project development time.*  
+**Special thanks** to *Michael Verbkin* and the whole hard-working Skillbox team for the permanent support during the training course and at the final project development time.  
 
 ### *** Licenses
 nlohmann/json: MIT  
