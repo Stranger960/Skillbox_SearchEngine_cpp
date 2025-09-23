@@ -4,9 +4,7 @@ This project is the final part of the *C++ training course* provided by **Skillb
 It is implementing a search engine *console* program for a company corporate portal, like Google search - 
 based on the *data relevance* evaluation. 
 It builds *search indexes*, works with configuration files and invokes a set of tests to validate the solution.  
-A *relevance formula* for generating search results is used as the project basis.  
-Project was developed in the MS Visual Studio environment. 
-
+A *relevance formula* (from the project task file above) for generating search results was used as the calculations basis.  
 
 
 ## *** Project structure  
@@ -68,8 +66,8 @@ Result interpretation
 ## *** Project configuration and replication
 Project was developed using Microsoft *Visual Studio* Community 2022.  
 Following requirements should be mentioned:  
-•	Compiler C++17
-•	CMake 3.20 (and higher versions)
+•	Compiler C++17  
+•	CMake 3.20 (and higher versions)  
 •	Internet access could be needed (for loading in advance or at the time of linking) for loading the remote entities,
 including *GoogleTest* and *nlohmann/jsonn* library.
 
