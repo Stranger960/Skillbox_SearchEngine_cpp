@@ -69,7 +69,7 @@ Following requirements should be mentioned:
 •	Compiler C++17 and higher versions  
 •	CMake 3.20 and higher versions  
 •	Internet access could be needed (for loading in advance or at the time of linking) for the remote entities used,
-including *GoogleTest* and *nlohmann/jsonn* library.
+including *GoogleTest* and *nlohmann/jsonn* library.  
 Project could be easily replicated / cloned either using GitHub Fork option or by creating a corresponding structure and code copy / past in any available IDE.
 
 ## *** Errata  
