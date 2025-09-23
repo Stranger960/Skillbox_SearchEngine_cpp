@@ -40,11 +40,9 @@ one single search request:
 <img width="383" height="222" alt="image" src="https://github.com/user-attachments/assets/77f561af-a964-4d93-b8f9-8330cd59022b" />  
 
 
-##  *** Stack of technologies used
-<p>
+##  *** Stack of technologies used  
 This is a local, pure backend solution, developed on C++.  
 Unit tests, based on GoogleTest, are included for control.
-</p>
 
 ## *** Features
 Key benefits:
