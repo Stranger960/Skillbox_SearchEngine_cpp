@@ -17,7 +17,7 @@ Project structure in MS VS is as follows:
 
 3 classes are implemented:
 - *ConverterJSON* class involves methods responsible for *config.json* and *requests.json* files reading  
-and for writing processing results to *answres.json*.  
+and for writing processing results to *answers.json* file.  
 
 - *InvertedIndex* class methods use data from text blocks (originally located in resources folder)
 and build an inverted index from them. An inverted index is a data structure where,
