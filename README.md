@@ -68,11 +68,11 @@ Following requirements should be mentioned:
 •	CMake 3.20 and higher versions  
 •	Internet access could be needed (for loading in advance or at the time of linking) for the remote entities used,
 including *GoogleTest* and *nlohmann/jsonn* library.  
-Project could be easily replicated / cloned using GitHub Fork option or by creating a corresponding structure and code copy / past in any available IDE.
+Project could be easily replicated / cloned using GitHub Fork option or by creating a project structure (as shown above) and code source codes and data files copy / past in any available IDE.  
 Running program locally:  
 - create a local / dedicated folder and past there the compiled *search_engine.exe* file
-- crate a subfolder *resources* and past there the source data files (*file001.txt*...)
-- run the program  
+- create a subfolder *resources* and past there the source data files (*file001.txt*...)
+- run the *search_engine.exe* file 
    
 
 ## *** Errata  
