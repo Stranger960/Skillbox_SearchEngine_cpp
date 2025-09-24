@@ -59,7 +59,7 @@ where user can easily work with own datasets:
 
 Result interpretation  
   <p>
-    <img width="213" height="301" alt="image" src="https://github.com/user-attachments/assets/1ac0e25b-cfe2-44ec-a90f-e652eec9bacb" />
+    <img width="429" height="498" alt="image" src="https://github.com/user-attachments/assets/8c00268f-c118-439e-a287-7e8b8492ad2b" />
   </p>
 
 
