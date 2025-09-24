@@ -1,5 +1,6 @@
-# Skillbox diploma project: SearchEngine  <img width="60" height="82" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />
-
+# Skillbox diploma project: SearchEngine  <img width="60" height="82" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />  
+  
+  
 This project is the final part of *C++ course*, provided by **Skillbox** ( www.skillbox.ru ).
 It implements a search engine *console* program for a company corporate portal, like Google search - 
 based on the *data relevance* evaluation. 
@@ -40,27 +41,28 @@ Input file *requests.json* includes the list of keywords used for search, where 
 one single search request (words separated by one or more spaces of lowercase Latin letters).  
 Up to 1K request lines where each line is 1 to 10 words:  
 <img width="383" height="222" alt="image" src="https://github.com/user-attachments/assets/77f561af-a964-4d93-b8f9-8330cd59022b" />  
-
+  
+  
 ## *** Results interpretation  
 For each request (line from the input file *requests.json*) program returns in the output *answers.json* file one block with the relevance array.  
 Each array element shows the relevance (*rank*) for the given *docid*  (document number – from the list of files in *config.json*):  
 <p>
     <img width="290" height="400" alt="image" src="https://github.com/user-attachments/assets/faafe31e-1cda-4c7a-8f6f-b61690782cdc" />
 </p>
-
-
+  
+  
 ##  *** Stack of technologies used  
 This is a local and pure backend solution, developed on C++.  
-Unit tests, based on GoogleTest, are included for code control.
+Unit tests, based on GoogleTest, are included for code control.  
 
-
+    
 ## *** Features
 Key benefits: project design is targeted to provide maximum flexibility,  
 where user can easily work with own datasets:  
 - add or modify the documents to be analyzed (within *config.json* file)  
 - adapt the keywords used for search (inside *requests.json* file).
 
-
+  
 ## *** Project configuration and replication
 Project was developed using Microsoft *Visual Studio* Community 2022.  
 Following requirements should be mentioned:  
@@ -78,19 +80,22 @@ Running program locally:
 It is easy to customize the project: just edit *requests.json* and *config.json* files accordingly (e.g. put your own *search keywords*).  
 Also you can update the content in source files (*file001.txt*...) with your own data, keeping in mind data limitations (mentioned above in the files description)...  
 
-
+  
 ## *** Errata  
 Following item from the Task file was noted during the development  
 (https://github.com/Stranger960/Skillbox_SearchEngine_cpp/blob/master/Final%20project%20task%20for%20C%2B%2B%20Skillbox%20training%20course.pdf):
 the output *answers.json* file must have a unique key ( "docid" ) per each record.  
 Also couple of corrections / comments were added to unit test (TestCaseInvertedIndex, TestBasic2):  
-<img width="550" height="335" alt="image" src="https://github.com/user-attachments/assets/2be20973-8228-40b1-af9b-8d716a46a3c7" />  
+<p>
+<img width="595" height="585" alt="image" src="https://github.com/user-attachments/assets/f768af8e-e513-410d-b005-5bfb3e61f0c5" />
+</p>
 
-
+  
 ## *** Contributing  
 **Special thanks** to *Michael Verbkin* and the whole hard-working Skillbox team for the permanent support during the training course  
 and at the final project development time.  
-
+  
+  
 ## *** Licenses
 nlohmann/json: MIT  
 GoogleTest: BSD-3-Clause  
