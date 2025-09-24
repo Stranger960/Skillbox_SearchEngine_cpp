@@ -1,14 +1,14 @@
 # Skillbox diploma project: SearchEngine  <img width="60" height="82" alt="image" src="https://github.com/user-attachments/assets/62431dec-ee86-49aa-947a-01e9da8f1ddf" />
 
-This project is the final part of the *C++ training course* provided by **Skillbox** ( www.skillbox.ru ).
-It is implementing a search engine *console* program for a company corporate portal, like Google search - 
+This project is the final part of *C++ course*, provided by **Skillbox** ( www.skillbox.ru ).
+It implements a search engine *console* program for a company corporate portal, like Google search - 
 based on the *data relevance* evaluation. 
 It builds *search indexes*, works with configuration files and invokes a set of tests to validate the solution.  
 A *relevance formula* (from the project task file above) for generating search results was used as the calculations basis.  
 
 
 ## *** Project structure  
-Project structure in MS VS is as follows:
+Project structure in MS VS IDE is as follows:
 <p>
 <img width="232" height="446" alt="image" src="https://github.com/user-attachments/assets/67a9762f-a4b6-48b8-9335-1e7384ba96c1" />
 </p>
