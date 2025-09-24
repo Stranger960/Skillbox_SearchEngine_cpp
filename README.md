@@ -41,6 +41,13 @@ one single search request (words separated by one or more spaces of lowercase La
 Up to 1K request lines where each line is 1 to 10 words:  
 <img width="383" height="222" alt="image" src="https://github.com/user-attachments/assets/77f561af-a964-4d93-b8f9-8330cd59022b" />  
 
+## *** Results interpretation  
+For each request (line from the input file *requests.json*) program returns in the output *answers.json* file one block with the relevance array.  
+Each array element shows the relevance (*rank*) for the given *docid*  (document number – from the list of files in *config.json*):  
+<p>
+    <img width="290" height="400" alt="image" src="https://github.com/user-attachments/assets/faafe31e-1cda-4c7a-8f6f-b61690782cdc" />
+</p>
+
 
 ##  *** Stack of technologies used  
 This is a local and pure backend solution, developed on C++.  
@@ -54,17 +61,6 @@ where user can easily work with own datasets:
 - adapt the keywords used for search (inside *requests.json* file).
 
 
-## *** Running program locally  
-...
-
-## *** Results interpretation  
-For each request (line from the input file *requests.json*) program returns in the output *answers.json* file one block with the relevance array.  
-Each array element shows the relevance (*rank*) for the given *docid*  (document number – from the list of files in *config.json*):  
-<p>
-    <img width="290" height="400" alt="image" src="https://github.com/user-attachments/assets/faafe31e-1cda-4c7a-8f6f-b61690782cdc" />
-</p>
-
-
 ## *** Project configuration and replication
 Project was developed using Microsoft *Visual Studio* Community 2022.  
 Following requirements should be mentioned:  
@@ -72,7 +68,12 @@ Following requirements should be mentioned:
 •	CMake 3.20 and higher versions  
 •	Internet access could be needed (for loading in advance or at the time of linking) for the remote entities used,
 including *GoogleTest* and *nlohmann/jsonn* library.  
-Project could be easily replicated / cloned either using GitHub Fork option or by creating a corresponding structure and code copy / past in any available IDE.
+Project could be easily replicated / cloned using GitHub Fork option or by creating a corresponding structure and code copy / past in any available IDE.
+Running program locally:  
+- create a local / dedicated folder and past there the compiled *search_engine.exe* file
+- crate a subfolder *resources* and past there the source data files (*file001.txt*...)
+- run the program  
+   
 
 ## *** Errata  
 Following item from the Task file was noted during the development  
