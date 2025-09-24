@@ -57,8 +57,8 @@ where user can easily work with own datasets:
 ## *** Running program locally  
 ...
 
-## *** Result interpretation  
-For each request (line in input file *requests.json*) program returns in the output *answers.json* one block with the relevance array.  
+## *** Results interpretation  
+For each request (line from the input file *requests.json*) program returns in the output *answers.json* one block with the relevance array.  
 Each array element shows the relevance (*rank*) for the given *docid*  (document number – from the list of files in *config.json*):  
 <p>
     <img width="290" height="400" alt="image" src="https://github.com/user-attachments/assets/faafe31e-1cda-4c7a-8f6f-b61690782cdc" />
