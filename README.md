@@ -69,6 +69,7 @@ Following requirements should be mentioned:
 •	Internet access could be needed (for loading in advance or at the time of linking) for the remote entities used,
 including *GoogleTest* and *nlohmann/jsonn* library.  
 Project could be easily replicated / cloned using GitHub Fork option or by creating a project structure (as shown above) and source codes and data files copy / past / adjust (if needed) in any available IDE.  
+  
 Running program locally:  
 - create a local / dedicated folder and past there the compiled *search_engine.exe* file
 - create a subfolder *resources* and past there the source data files (*file001.txt*...)
