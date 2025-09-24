@@ -75,7 +75,7 @@ Running program locally:
 - create a subfolder *resources* and past there the source data files (*file001.txt*...)
 - run the *search_engine.exe* file 
 
-It is easy to customize the project: just edit *requests.json* and *config.json* files accordingly.  
+It is easy to customize the project: just edit *requests.json* and *config.json* files accordingly (e.g. put your own *search keywords*).  
 Also you can update the content in source files (*file001.txt*...) with your own data, keeping in mind data limitations (mentioned above in the files description)...  
 
 
