@@ -84,7 +84,7 @@ Following item from the Task file was noted during the development
 (https://github.com/Stranger960/Skillbox_SearchEngine_cpp/blob/master/Final%20project%20task%20for%20C%2B%2B%20Skillbox%20training%20course.pdf):
 the output *answers.json* file must have a unique key ( "docid" ) per each record.  
 Also couple of corrections / comments were added to unit test (TestCaseInvertedIndex, TestBasic2):  
-<img width="500" height="305" alt="image" src="https://github.com/user-attachments/assets/2be20973-8228-40b1-af9b-8d716a46a3c7" />  
+<img width="550" height="335" alt="image" src="https://github.com/user-attachments/assets/2be20973-8228-40b1-af9b-8d716a46a3c7" />  
 
 
 ## *** Contributing  
