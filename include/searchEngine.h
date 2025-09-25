@@ -13,5 +13,5 @@
 #include "nlohmann/json.hpp"
 using namespace std;
 
-const bool PRINT = !true;				                                  //  debug print switch
-#define    PAUSE this_thread::sleep_for(chrono::seconds(20));    	//  delay before closing
+const bool PRINT = !true;				                                 //  debug print switch
+#define    PAUSE this_thread::sleep_for(chrono::seconds(20));    //  delay before closing
